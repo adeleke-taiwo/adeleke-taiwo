@@ -64,14 +64,14 @@ Hey there! I'm **Adeleke Taiwo**, a passionate software developer who loves turn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adeleke-taiwo-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeleke-taiwo-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=adeleke-taiwo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeleke-taiwo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adeleke-taiwo-dev&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=adeleke-taiwo&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -79,7 +79,7 @@ Hey there! I'm **Adeleke Taiwo**, a passionate software developer who loves turn
 
 ## 🚀 Featured Projects
 
-### 🔒 [GDPR-ComplianceHub](https://github.com/adeleke-taiwo-dev/GDPR-ComplianceHub) — GDPR Compliance Platform
+### 🔒 [GDPR-ComplianceHub](https://github.com/adeleke-taiwo/GDPR-ComplianceHub) — GDPR Compliance Platform
 
 > A serverless compliance management system built to help organisations handle GDPR obligations, data subject requests, and audit trails.
 
@@ -94,7 +94,7 @@ Hey there! I'm **Adeleke Taiwo**, a passionate software developer who loves turn
 
 ---
 
-### 🏢 [HR-LeaveFlow](https://github.com/adeleke-taiwo-dev/HR-LeaveFlow) — HR Leave Management System
+### 🏢 [HR-LeaveFlow](https://github.com/adeleke-taiwo/HR-LeaveFlow) — HR Leave Management System
 
 > A full-stack leave management platform for HR teams, featuring automated approvals, reporting, and role-based access control.
 
@@ -108,7 +108,7 @@ Hey there! I'm **Adeleke Taiwo**, a passionate software developer who loves turn
 
 ---
 
-### 💳 [FinPulse](https://github.com/adeleke-taiwo-dev/FinPulse) — FinTech Dashboard
+### 💳 [FinPulse](https://github.com/adeleke-taiwo/FinPulse) — FinTech Dashboard
 
 > A comprehensive personal finance platform with real-time analytics, account management, and transaction tracking.
 
@@ -125,7 +125,7 @@ Hey there! I'm **Adeleke Taiwo**, a passionate software developer who loves turn
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adeleke-taiwo-dev&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adeleke-taiwo&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -144,6 +144,6 @@ Hey there! I'm **Adeleke Taiwo**, a passionate software developer who loves turn
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Profile Views](https://komarev.com/ghpvc/?username=adeleke-taiwo-dev&color=00D9FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=adeleke-taiwo&color=00D9FF&style=flat-square)
 
 </div>
