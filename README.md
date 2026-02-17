@@ -79,34 +79,6 @@ Hey there! I'm **Adeleke Taiwo**, a passionate software developer who loves turn
 
 ## 🚀 Featured Projects
 
-### 💳 [FinPulse](https://github.com/adeleke-taiwo-dev/FinPulse) — FinTech Dashboard
-
-> A comprehensive personal finance platform with real-time analytics, account management, and transaction tracking.
-
-| Category | Stack |
-|----------|-------|
-| **Tech** | Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Radix UI · Recharts |
-| **Node** | Next.js API Routes (40+ endpoints) |
-| **DB** | Prisma 6 · Neon PostgreSQL |
-| **Auth** | NextAuth v5 |
-| **Scale** | 55+ pages · 40+ API routes · Deployed on Vercel |
-
----
-
-### 🏢 [HR-LeaveFlow](https://github.com/adeleke-taiwo-dev/HR-LeaveFlow) — HR Leave Management System
-
-> A full-stack leave management platform for HR teams, featuring automated approvals, PDF reporting, and role-based access control.
-
-| Category | Stack |
-|----------|-------|
-| **Tech** | React 19 · Vite 7 · Node.js · Express 5 · PDFKit |
-| **Node** | Express 5 REST API (8 modules) |
-| **DB** | Prisma 5 · PostgreSQL |
-| **Auth** | Custom JWT |
-| **Scale** | 14 pages · 8 API modules · Frontend on GitHub Pages · Backend on Render |
-
----
-
 ### 🔒 [GDPR-ComplianceHub](https://github.com/adeleke-taiwo-dev/GDPR-ComplianceHub) — GDPR Compliance Platform
 
 > A serverless compliance management system built to help organisations handle GDPR obligations, data subject requests, and audit trails.
@@ -119,6 +91,35 @@ Hey there! I'm **Adeleke Taiwo**, a passionate software developer who loves turn
 | **Auth** | Custom JWT (jose) |
 | **GDPR** | Data subject request handling · Audit logging · Consent management |
 | **Scale** | 13 server services · 14+ DB models · Deployed on Vercel |
+
+---
+
+### 🏢 [HR-LeaveFlow](https://github.com/adeleke-taiwo-dev/HR-LeaveFlow) — HR Leave Management System
+
+> A full-stack leave management platform for HR teams, featuring automated approvals, reporting, and role-based access control.
+
+| Category | Stack |
+|----------|-------|
+| **Tech** | React 19 · Vite 7 · Node.js · Express 5 · PDFKit |
+| **Node** | Express 5 REST API (8 modules) |
+| **DB** | Prisma 5 · PostgreSQL |
+| **Auth** | Custom JWT |
+| **Scale** | 14 pages · 8 API modules · Frontend on GitHub Pages · Backend on Render |
+
+---
+
+### 💳 [FinPulse](https://github.com/adeleke-taiwo-dev/FinPulse) — FinTech Dashboard
+
+> A comprehensive personal finance platform with real-time analytics, account management, and transaction tracking.
+
+| Category | Stack |
+|----------|-------|
+| **Tech** | Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Radix UI · Recharts |
+| **Node** | Next.js API Routes (40+ endpoints) |
+| **DB** | Prisma 6 · Neon PostgreSQL |
+| **Auth** | NextAuth v5 |
+| **Scale** | 55+ pages · 40+ API routes · Deployed on Vercel |
+
 
 ---
 
